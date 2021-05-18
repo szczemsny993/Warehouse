@@ -1,0 +1,4 @@
+databaseuser=root
+databasepassword=none
+databasehost=localhost
+databasename=serwis
